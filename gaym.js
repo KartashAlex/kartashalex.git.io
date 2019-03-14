@@ -11,8 +11,8 @@ var b = false;
 var back = game.newBackgroundObject(   { 
      x : 0, 
      y : 0, 
-     w : 800, 
-     h : 600, 
+     w : 1920, 
+     h : 1080, 
      countX : 1, 
      countY : 1, 
      file : "fon.jpg", 
