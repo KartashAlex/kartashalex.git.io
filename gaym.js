@@ -1,4 +1,4 @@
-var pjs = new PointJS(1920, 1080, {backgroundColor: 'black'})
+var pjs = new PointJS(1720, 880, {backgroundColor: 'black'})
 var game = pjs.game;
 var key = pjs.keyControl;
 key.initControl();
@@ -11,8 +11,8 @@ var b = false;
 var back = game.newBackgroundObject(   { 
      x : 0, 
      y : 0, 
-     w : 1920, 
-     h : 1080, 
+     w : 1720, 
+     h : 880, 
      countX : 1, 
      countY : 1, 
      file : "fon.jpg", 
